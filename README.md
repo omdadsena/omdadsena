@@ -34,7 +34,13 @@
 ## 🔗 I am a Part-time Freelancer.
 ---
 
-### 🛡️ About Me
+## 🚀 About Me  
+Passionate Ethical Hacker & Cybersecurity Researcher with hands-on experience in penetration testing, OSINT investigations, Linux systems, and exploit development.  
+I combine **cybersecurity + full-stack development** to build secure systems and break insecure ones (legally 😉).
+
+💀 *My goal: Defense + Offense Mastery.*
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omdadsena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
