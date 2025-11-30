@@ -31,6 +31,7 @@
 </p>
 # Decoding Data, Securing Systems.
 
+## 🔗 I am a Part-time Freelancer.
 ---
 
 ### 🛡️ About Me
@@ -40,6 +41,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-dadsena-a112bb298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omdadsena1@gmail.com) 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -90,9 +96,10 @@
 
 "Amateurs hack systems; professionals hack people. I, however, analyze both to protect all." — Om Dadsena, Cyber Sentinel
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omdadsena&show_icons=true&theme=radical&hide_border=false&count_private=true&line_height=25&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Om Dadsena's GitHub Stats" height="180"/>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omdadsena&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500" alt="Om Dadsena's GitHub Streak" height="180"/>
 
 
