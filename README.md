@@ -31,7 +31,7 @@
 </p>
 # Decoding Data, Securing Systems.
 
-## 🔗 I am a Part-time Freelancer.
+## 🔗 Freelancer
 ---
 
 ## 🚀 About Me  
